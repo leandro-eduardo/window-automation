@@ -35,6 +35,7 @@ captures/
 # User-specific configurations
 .idea/libraries/
 .idea/workspace.xml
+.idea/gradle.xml
 .idea/tasks.xml
 .idea/.name
 .idea/compiler.xml
@@ -44,6 +45,8 @@ captures/
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
+.idea/dictionaries
+.idea/caches
 *.iml
 
 # Keystore files
