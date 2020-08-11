@@ -1,6 +1,28 @@
 <resources>
-    <string name="app_name">WindowAutomation</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Automação de Janela</string>
+    <string name="title_home">Início</string>
+    <string name="title_history">Histórico</string>
+    <string name="title_about">Sobre</string>
+
+    <string name="opened">Aberta</string>
+    <string name="closed">Fechada</string>
+    <string name="home_automatic_mode">Modo automático</string>
+    <string name="accelerometer_sensor">Sensores Acelerômetro</string>
+
+    <string name="delete_history">Apagar histórico</string>
+
+    <string name="about_title">Tópicos Especiais em Sistemas de Informação</string>
+    <string name="about_course_grade">Sistemas de Informação - 4ª Série</string>
+
+    <string name="acitivity_history_details_description">Descrição</string>
+    <string name="acitivity_history_details_date_hour">Data - Hora</string>
+
+    <string name="data_updated">Dados atualizados!</string>
+
+    <string name="default_notification_channel_id">Channel ID</string>
+
+    <string name="deleting">Excluindo...</string>
+    <string name="delete_confirmation">Tem certeza que deseja apagar o histórico?</string>
+    <string name="delete_successful_message">Histórico apagado. Deslize para baixo para atualizar.</string>
+
 </resources>

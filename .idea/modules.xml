@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WindowAutomation.iml" filepath="$PROJECT_DIR$/WindowAutomation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="window-automation/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/window-automation.iml" filepath="$PROJECT_DIR$/.idea/modules/window-automation.iml" group="window-automation" />
     </modules>
   </component>
 </project>

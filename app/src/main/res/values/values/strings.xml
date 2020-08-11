@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WindowAutomation</string>
+    <string name="title_home">Início</string>
+    <string name="title_history">Histórico</string>
+    <string name="title_about">Sobre</string>
+
+    <string name="home_fragment_text">Aqui será o fragment inicial</string>
+    <string name="home_button_open_close">Abrir</string>
+    <string name="home_automatic_mode">Modo automático</string>
+
+    <string name="history_fragment_text">Aqui será implementado o histórico</string>
+
+    <string name="about_fragment_text">Aqui será as informações do trabalho</string>
+    <string name="about_title">Tópicos Especiais em Sistemas de Informação</string>
+    <string name="about_course_grade">Sistemas de Informação - 4ª Série</string>
+
+    <string name="acitivity_history_details_desciption">Descrição</string>
+    <string name="acitivity_history_details_date_hour">Data/Hora</string>
+
+
+</resources>

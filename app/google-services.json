@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "703899631162",
+    "firebase_url": "https://windowautomation-1733b.firebaseio.com",
+    "project_id": "windowautomation-1733b",
+    "storage_bucket": "windowautomation-1733b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703899631162:android:490eb7499177b9b6",
+        "android_client_info": {
+          "package_name": "com.eduardo.leandro.windowautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703899631162-291nug6vcte31ghqddkuvouheee8n8ml.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "703899631162-291nug6vcte31ghqddkuvouheee8n8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTY9ueAPz04f7-wNsKPELQYCSSYarnI5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

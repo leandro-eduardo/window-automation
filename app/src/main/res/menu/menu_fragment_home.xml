@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomeFragment">
+
+    <item
+        android:id="@+id/sensor"
+        android:orderInCategory="101"
+        android:title="@string/accelerometer_sensor"
+        android:icon="@drawable/ic_sensor_black"
+        app:showAsAction="always"/>
+
+</menu>
+
